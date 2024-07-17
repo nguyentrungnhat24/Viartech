@@ -189,7 +189,7 @@ span.psw {
   <!-- --------------- ------------------------------------------------------------------>
             <div class="container d-flex justify-content-between">
               <div style="font-weight:bold;font-size:30px">
-               <div style="text-shadow: 0 0 5px gold, 0 0 7px #0000FF;">DANH SÁCH THIẾT BỊ</div> 
+               <div style="text-shadow: 0 0 5px gold, 0 0 7px #0000FF;">DANH SÁCH SẢN PHẨM</div> 
                 
                     <?php
                         foreach($dsdmdc as $dm){

@@ -149,7 +149,7 @@
 
           <div class="row" data-aos="fade-up">
             <div class="col-md-5 order-1 order-md-2">
-              <img src="assets/img/features-2.svg" class="img-fluid" alt="" />
+              <img src="../img/features-2.svg" class="img-fluid" alt="" />
             </div>
             <div class="col-md-7 pt-5 order-2 order-md-1">
               <h3>Corporis temporibus maiores provident</h3>

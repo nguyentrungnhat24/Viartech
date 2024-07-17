@@ -51,7 +51,7 @@ function showpro3($ds){
                   <div class="container">
                     <h2>'.$dc['tendc'].'</h2>
                     <p class="title">Giá mua: '.$dc['gia'].'vnđ</p>
-                    <p>Thương hiệu sản xuất: liên doanh giữa Mỹ và  Trung Quốc</p>
+                    <p>Thương hiệu sản xuất: công ty Viartech</p>
                     <p>Tình trạng: '.$dc['tinhtrang'].'</p>
                     <p>Số lượng: '.$dc['soluong'].'</p>
                     <div class="d-flex justify-content-around text-bg-dark p-2 mb-2">

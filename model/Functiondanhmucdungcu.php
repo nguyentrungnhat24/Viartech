@@ -31,4 +31,13 @@ function getall_danhmucdungcu(){
     $ketqua=$stmt->fetchAll();
     return $ketqua;
 }
+
+function getall_iddanhmucdungcu(){
+    $conn=connectdb();
+    $stmt = $conn->prepare("SELECT id FROM tb_danhmucdungcu");
+    $stmt->execute();
+    $result = $stmt->setFetchMode(PDO::FETCH_ASSOC);
+    $ketqua=$stmt->fetchAll();
+    return $ketqua;
+}
 ?>

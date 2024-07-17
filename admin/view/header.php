@@ -1,3 +1,4 @@
+
 <style>
   #mainNav {
   padding-top: 0px;
@@ -74,7 +75,7 @@
     <div class="p-4 text-white text-left container d-flex justify-content-between">
       <div id="font" class="mt-5 text-center col-sm-4 ">
         <h4 style=" font-size: 30px;color:aqua;font-weight:bold;
-        text-shadow: rgba(0,0,255,1) -1px -2px 0.5em;margin-bottom:30px">HỆ THỐNG QUẢN LÝ<br> PHÒNG GYM</h4>
+        text-shadow: rgba(0,0,255,1) -1px -2px 0.5em;margin-bottom:30px">HỆ THỐNG QUẢN LÝ<br> VIARTECH</h4>
         <!-- <h5 style="color: white;font-weight:bold;
   text-shadow: 2px 2px 4px black;">Trưởng phòng</h5> -->
         <!-- <p style="text-shadow: 2px 2px 8px black;">Trần Xuân Đức</p>
@@ -82,7 +83,7 @@
         <!-- <button type="submit" class="btn btn-light ">Xem thêm</button> -->
       </div>
       <div id="header" class="col-sm-8 ">
-         <img src="../uploaded/header.jpg" alt="" style="height: 300px;width: 800px;">
+         <img src="../images/logo-new20241.jpg" alt="" style="height: 200px;width: 700px;margin-left:50px">
       </div>
     </div>
   </div>
@@ -113,22 +114,18 @@
 </div> -->
 <nav  class="navbar navbar-expand-lg bg-success text-uppercase " id="mainNav">
             <div class="container">
-                <a class="navbar-brand ps-3" href="#page-top">FITNESS</a>
+                <a class="navbar-brand ps-3" href="#page-top">Menu</a>
                 <button class="navbar-toggler text-uppercase font-weight-bold bg-primary text-white rounded" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
                     Menu
                     <i class="fas fa-bars"></i>
                 </button>
-                <div class="collapse navbar-collapse" id="navbarResponsive">
-                    <ul class="navbar-nav ms-auto ps-3">
-                        <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded text-info" href="controllers.php?act=trangchu">TRANG CHỦ</a></li>
-                        <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded" href="controllers.php?act=nhanvien">NHÂN VIÊN</a></li>
-                        <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded" href="controllers.php?act=khachhang">KHÁCH HÀNG</a></li>
-                        <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded" href="controllers.php?act=danhmucPT">PT</a></li>
-                        <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded" href="controllers.php?act=dungcu">DỤNG CỤ</a></li>
-                        <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded" href="controllers.php?act=lichtap">LỊCH TẬP</a></li>
-                        <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded" href="controllers.php?act=goitap">GÓI TẬP</a></li>
-                        <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded" href="controllers.php?act=thongke">DOANH THU</a></li>
+                <div class="collapse navbar-collapse " id="navbarResponsive">
+                    <ul class="navbar-nav ms-auto  me-auto ps-3">
+                        <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded text-info" href="controllers.php?act=trangchu">TRANG CHỦ</a></li>                  
+                        <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded" href="controllers.php?act=dungcu">SẢN PHẨM</a></li>
+                        <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded" href="controllers.php?act=gioithieu">GIỚI THIỆU</a></li>
                     </ul>
+                   
                 </div>
             </div>
         </nav>

@@ -158,45 +158,23 @@
   <section class="services">
     <div class="container">
       <div class="title">
-        <h1>Welcome to the <span>gym management system</span></h1>
+        <h1>Quản lí website<span> VIARTECH</span></h1>
     
       </div>
       <div class="services_boxes">
-        <div class="box">
-        <a class="nav-link text-white" href="controllers.php?act=nhanvien"><i class="fa-solid fa-person-breastfeeding"></i></a>
-          <h4>Nhân viên</h4>
-          
-        </div>
-
-        <div class="box br col-sm-6 col-md-4">
-        <a class="nav-link text-white" href="controllers.php?act=khachhang"><i class="fa-sharp fa-solid fa-person"></i></a>
-          <h4>Khách hàng</h4>
-          
-        </div>
-
         <div class="box col-sm-6 col-md-4">
-        <a class="nav-link text-white" href="controllers.php?act=danhmucPT"><i class="fa-solid fa-people-group"></i></a>
-          <h4>PT</h4>
-          
-        </div>
-        <div class="box col-sm-6 col-md-4">
-        <a class="nav-link text-white" href="controllers.php?act=dungcu"><i class="fa-solid fa-dumbbell"></i></a>
-          <h4>Dụng cụ</h4>
+        <a class="nav-link text-white" href="controllers.php?act=dungcu"><i class="fa-solid fa-box"></i></i></a>
+          <h4>Sản phẩm</h4>
         
         </div>
         <div class="box col-sm-6 col-md-4">
-        <a class="nav-link text-white" href="controllers.php?act=thongke"><i class="fa-solid fa-money-check-dollar"></i></a>
-          <h4>Doanh thu</h4>
-          
-        </div>
-        <div class="box col-sm-6 col-md-4">
-        <a class="nav-link text-white" href="controllers.php?act=bmi"><i class="fa-sharp fa-solid fa-list-check"></i></a>
-          <h4>Kiểm tra chỉ số BMI</h4>
+        <a class="nav-link text-white" href="controllers.php?act=gioithieu"><i class="fa-sharp fa-solid fa-list-check"></i></a>
+          <h4>Giới thiệu</h4>
         
         </div>
        
           <div class="box col-sm-6 col-md-4">
-          <a class="nav-link text-white" href="../../admin/"><i class="fa-solid fa-right-from-bracket"></i></a>
+          <a class="nav-link text-white" href=""><i class="fa-solid fa-right-from-bracket"></i></a>
             <h4>Đăng xuất</h4>
           </div>
         
